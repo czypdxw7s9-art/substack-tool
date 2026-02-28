@@ -1,0 +1,93 @@
+[
+    {
+        "domain": ".substack.com",
+        "expirationDate": 1779602073.960784,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "substack.lli",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzOTg3OTc2LCJpYXQiOjE3NzE4MjYwNzMsImV4cCI6MTc3NDQxODA3MywiYXVkIjoibGlrZWx5LWxvZ2dlZC1pbiJ9.BZ_Wt_tctgJNtGKDwtoQr0Ijw1QPRqX0hqUnxsondzc"
+    },
+    {
+        "domain": ".substack.com",
+        "expirationDate": 1803361606.668706,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ab_experiment_sampled",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%22false%22"
+    },
+    {
+        "domain": ".substack.com",
+        "expirationDate": 1803362085.225534,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ab_testing_id",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%22c6ac5e5b-d44c-4b8d-be96-3e70bd4245af%22"
+    },
+    {
+        "domain": ".substack.com",
+        "expirationDate": 1771827429.846113,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "zGh630kDCwkIC_UVOe.zDO_KSQqB18JW8a8D8yRihWI-1771825629-1.0.1.1-9iN90TuSyk3x73RNVbBEMMO88OXCdoKyGYYAEhYzotIdQdWylWhjoUCSZiquUk3ogW0OnbihmhnvI1qlu8IOBcl17uQAlt1nuncq7VBHoVqp.N7E2dGnPK2mf0rii_DG"
+    },
+    {
+        "domain": "deepleft.substack.com",
+        "expirationDate": 1772430884.224833,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "AWSALBTGCORS",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "9ofLR1ue01+01S5HUFxtyZRhzVcV1ZR+heLDsVN/njrNPNxmDcvj4LixR1nau4SB4oNDTme+o4J5UnZalB2k1n8zcjqrlMs7QbGj3fA4Mp9axST34p7x03O/mHdqKywCXrhX4231NQkzsIv4xqPq6pHVofD0I59LMOC1cWCmvnDEekvzpk8/x7kjDQ8Pde/+l5COYrWcz+Viv9Wvc+vABnnTWNZrwM2+TTRqzJHkvRJ+GARLxMA4MVuQaUvocdbR"
+    },
+    {
+        "domain": ".substack.com",
+        "expirationDate": 1779601607.700688,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "cookie_storage_key",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "517a2afe-261f-4ad6-8765-56a05e131166"
+    },
+    {
+        "domain": ".substack.com",
+        "expirationDate": 1779602085.225597,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "substack.sid",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "s%3A0YitgTwogTM7yck6gTivpnImSGu0Yx-F.eU%2Fm2S329wXBSeNB12RpJaC49KSJflm0nyRtW4%2BS7U4"
+    }
+]
