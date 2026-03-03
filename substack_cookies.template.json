@@ -1,0 +1,93 @@
+[
+  {
+    "domain": ".substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "substack.lli",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  },
+  {
+    "domain": ".substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "ab_experiment_sampled",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  },
+  {
+    "domain": ".substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "ab_testing_id",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  },
+  {
+    "domain": ".substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  },
+  {
+    "domain": "your-publication.substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "AWSALBTGCORS",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  },
+  {
+    "domain": ".substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "cookie_storage_key",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  },
+  {
+    "domain": ".substack.com",
+    "expirationDate": 1900000000,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "substack.sid",
+    "path": "/",
+    "sameSite": null,
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "REPLACE_WITH_YOUR_VALUE"
+  }
+]

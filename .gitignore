@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local/private auth material
+*cookies*.json
+!substack_cookies.template.json
+
+# Large local corpora + caches
+archive/
+deepleft/
+richardhanania/
+*_article_cache/
+
+# Generated graph/render outputs
+internal_links_graph*.html
+internal_links_graph*.dot
+internal_links_graph*.json
+
+# Optional downloaded asset for standalone renders
+vis-network.min.js
